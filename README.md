@@ -1,11 +1,10 @@
 #Pesonal info:
 NAME : SANKARAPANDI S
-ROLL NUMBER : 21322
+ROLL NUMBER : 214322
 EMAIL : sankarapandioff@gmail.com
 COLLEGE : KLN COLLEGE OF ENGINEERING
 CONTACT : 8610991093
 
-Educational Initiatives Off-Campus Drive (KLN Engineering College, Madurai)
 
 #Virtual Classroom Manager Programming Exercise
 #Problem Statement
