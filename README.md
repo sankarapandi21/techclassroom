@@ -1,9 +1,9 @@
 #Pesonal info:
-NAME : VIGNESH K
-ROLL NUMBER : 20BCS117
-EMAIL : gkvignesh0001@gmail.com
-COLLEGE : MEPCO SCHLENK ENGINEERING COLLEGE
-CONTACT : 8220407962
+NAME : SANKARAPANDI S
+ROLL NUMBER : 21322
+EMAIL : sankarapandioff@gmail.com
+COLLEGE : KLN COLLEGE OF ENGINEERING
+CONTACT : 8610991093
 
 Educational Initiatives Off-Campus Drive (KLN Engineering College, Madurai)
 
